@@ -1,4 +1,4 @@
-![질문1](https://user-images.githubusercontent.com/83389640/127938431-27aefafa-6f37-4e27-87fa-5ebc7f566646.png)
+![2222](https://user-images.githubusercontent.com/83389640/127953207-4d228822-f48c-410a-bbe7-dcd736d4f1ec.png)
 
 코드 참조 : https://codepen.io/dalpaeng00/pen/dyGPezx
 
